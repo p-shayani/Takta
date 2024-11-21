@@ -1,0 +1,317 @@
+@media screen and (max-width:1500px) {
+    .antennaart2-1 , .slider2-1 , .logo-top-new , .plant ,.newspaper{
+       display: none;
+    }
+    .slides-title{
+        top: 5px;
+    }
+    .box , .box2{
+        top:65%
+    }
+    .products-img img{
+        width: 250px;
+        height: 250px;
+    }
+    .menu-icon , .line{
+        display: none;
+    } 
+}
+
+
+
+@media screen and (max-width:1250px){
+    .taktasketch1 , .taktasketch2 , .taktasketch3 , .taktasketch4 , .web-developmen{
+        margin-top: 300px;
+        height: 500px;
+    }
+    .antennaart02 , .antennaart2-3-1 , .coffee_cup2-1 , .headphones , .iranpng{
+        display: none;
+    }
+    .slides-text{
+        margin-top: 100px;
+    }
+    .box , .box2{
+        top:67%;
+        right: 44%;
+    }
+    .scrolltodown{
+        right: 46%;
+    }
+    .services-border p {
+        font-size:11.5px;
+        font-weight: 800;
+    }
+    .hexagon{
+        font-size: 80px;
+    }
+    .wifi , .video , .flask , .photo , .truck{
+        font-size: 25px;
+    }
+    .about-takta-text p {
+        font-size:14px;
+    }
+    .about-takta-text h2 {
+        font-size:22px;
+    }
+    .img-slides{
+        height: 450px;
+    }
+    .products-text{
+        font-size: 18px;
+    }
+    .logo-background{
+        width: 100px;
+        height: 100px;
+        margin: 80px 15px 50px 15px;
+    }
+    .logo{
+        width: 75px;
+        height: 75px;
+    }
+    .download-icon{
+        margin-right: 10px;
+    }
+    .footer-box > .list:nth-child(3) {
+        display: none;
+    }
+}
+
+
+
+@media screen and (max-width:900px) {
+    .slides-title{
+        display: none;
+    }
+    .taktasketch1 {
+        width: 70%;
+        height: 300px;
+        bottom: 10%;
+    }
+    .taktasketch2 {
+        width: 70%;
+        height: 300px;
+        bottom: 10%;
+    }
+    .taktasketch3 , .web-developmen {
+        width: 80%;
+        height: 300px;
+        bottom: 10%;
+    }
+    .taktasketch4 {
+        width: 70%;
+        height: 300px;
+        bottom: 10%;
+    }
+    .slide-text p{
+        font-size: 14px;
+    }
+    .slide-text2  p{
+        font-size: 14px;
+    }
+    .slide-text h1 {
+        font-size: 23px;
+    } 
+    .slide-text , .slide-text2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 70%;
+        margin-left: 13%; 
+    }
+    .slide-text2 h1{
+        font-size: 23px;
+    }
+    .about-takta{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .img-slides{
+        width: 500px;
+        height: 350px;
+        margin-top: 20px;
+    }
+    .about-takta-text p {
+        text-align: justify;
+        text-align-last: center;
+    }
+    .products-img img{
+        width: 180px ;
+        height: 180px;
+    }
+    .products-img img:hover{
+        width: 160px;
+        height: 160px;
+    }
+    .products-text{
+        font-size: 14px;
+    }
+    .media{
+        height: 500px;
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+    }
+    .media-text{
+        text-align:center
+    }
+    .media-img{
+        margin-right: 0px;
+        margin-top: 20px;
+    }
+    .wrap{
+        flex-wrap: wrap;
+    }
+    .margin-bottom-box{
+        margin-bottom: 0;
+    }
+    .youtube-icon , .instagram-icon , .arm-en{
+        display: none;
+    }
+    .blue3{
+        display: none;
+    }
+}
+
+
+
+@media screen and (max-width:714px){
+    .margin-top{
+        margin-bottom: -10px;
+    }
+    .img-slides{
+        width: 400px;
+        height: 350px;  
+    }
+    .products-img img{
+        width: 150px ;
+        height: 150px;
+    }
+    .products-img img:hover{
+        width: 130px;
+        height: 130px;
+    }
+    .products-text{
+        font-size: 12px;
+    }
+    .download{
+        margin-top: 70px;
+        margin-bottom: 30px;
+    }
+    .download-box{
+        margin-top: 0px;
+        margin-bottom: 20px;
+    }
+    .menu-item{
+        font-size: 12px;
+    }
+    .menu-icon , .line , .youtube-icon , .instagram-icon , .arm-en{
+        display: block;
+    }
+    .menu-margin{
+        display: none;
+    }
+    .arm-en{
+        width: 100px;
+        height: 100px;
+    }  
+}
+
+
+
+@media screen and (max-width:580px){
+    .services-border{
+        margin: 0px 7px 0px 7px;
+    }
+}
+
+
+
+@media screen and (max-width:500px) {
+    .box , .box2 {
+        right: 38%;
+    }
+    .scrolltodown{
+        right: 43%;
+    }
+    .taktasketch2 {
+        width: 90%;
+        height: 300px;
+        bottom: 10%;
+    }
+    .taktasketch3 , .web-developmen {
+        width: 110%;
+        height: 300px;
+        bottom: 10%;
+    }
+    .services-border{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin: 10px 7px 10px 7px;
+        width: 70%;
+        height: 150px;
+    }
+    .services-background{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        height: 800px;
+    }
+    .hexagon{
+        font-size: 110px;
+        margin-top: -2px;
+    }
+    .wifi , .video , .flask , .photo , .truck{
+        font-size: 40px;
+    }
+    .services-border p {
+        font-size: 15px;
+        margin-right: 20px;
+    }
+    .margin-top{
+        margin-bottom: 0px;
+    }
+    .img-slides{
+        width: 300px;
+        height: 300px;  
+    }
+    .products-img{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .products-img img{
+        width: 200px ;
+        height: 200px;
+        margin-top: 20px;
+    }
+    .products-img img:hover{
+        width: 180px;
+        height: 180px;
+    }
+    .products-text{
+        font-size: 15px;
+    }
+    .products{
+        margin-right: 20px;
+    }
+    .media-img{
+        width: 250px;
+        height: 150px;
+    }
+    .blue4 p {
+        direction: rtl;
+        font-size: 15px;
+    }
+    .footer-box > .list:nth-child(1) {
+        display: none;
+    }
+    .cancel{
+        color: black;
+        margin: -10px -70px 0px ;        
+    }
+}
